@@ -1,0 +1,1 @@
+Open project in Pycharm and run the following in the terminal: "jupyter lab". A website should open with the code.
